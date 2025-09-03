@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api",
+    "\\Api\\Functions",
+    "\\Data",
+    "\\Models",
+    "\\Services",
+    "\\Services\\ Implementations",
+    "\\Services\\ Implementations\\Repositories",
+    "\\Services\\Interfaces",
+    "\\Services\\Interfaces\\Repositories"
+  ],
+  "SelectedNode": "\\Models\\Models.csproj",
+  "PreviewInSolutionExplorer": false
+}
